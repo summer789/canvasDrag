@@ -1,0 +1,19 @@
+.app {
+    width: 100%;
+    display: flex;
+}
+
+.left {
+    width: 75%;
+}
+
+.right {
+    width: 20%;
+}
+
+.item {
+  height:100px;
+  width: 100px;
+  background:#000;
+  margin-top: 10px;
+}
